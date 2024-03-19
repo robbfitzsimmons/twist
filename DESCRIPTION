@@ -1,0 +1,10 @@
+Package: twist
+Title: Implements Transwestern style guide
+Version: 0.0.0.9000
+Authors@R: 
+    person("Robb", "Fitzsimmons", , "robb.fitzsimmons@linnaean.co", role = c("aut", "cre"))
+Description: Implements the Transwestern style guide (fonts, colors, app, etc.).
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
